@@ -5,7 +5,8 @@ Kaggle Competition : Cat vs Dog Image Classification
 
 https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition
 
-
+기용 : Kaggle Notebook
+https://www.kaggle.com/code/hyojunyoung/notebooke414937e1a
 
 유현님 : kaggle Notebook  
 https://www.kaggle.com/code/yoohyeonroh/notebookc340acd269
